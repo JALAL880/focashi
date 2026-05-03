@@ -1,6 +1,6 @@
 {
     "name": "focashi",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "WhatsApp API Modification By Ahmad Akbar Forked from Socketon",
     "publishConfig": {
         "access": "public"
