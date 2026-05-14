@@ -1,7 +1,7 @@
 {
-    "name": "focashi",
+    "name": "BebyShina",
     "version": "1.0.2",
-    "description": "WhatsApp API Modification By Ahmad Akbar Forked from Socketon",
+    "description": "WhatsApp API Modification By Beby Forked from Socketon",
     "publishConfig": {
         "access": "public"
     },
@@ -20,7 +20,7 @@
         "url": "https://github.com/AhmadAkbarID/focaleys"
     },
     "license": "MIT",
-    "author": "Ahmad Akbar",
+    "author": "BebyShina",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
